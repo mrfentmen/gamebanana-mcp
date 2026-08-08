@@ -1,14 +1,14 @@
-# gamebanana-mcp
+# gamebanana mcp
 
-The [GameBanana](https://gamebanana.com) mods database — millions of game
-mods across Doom, Half-Life, GTA, Minecraft and everything else. No key.
+The [GameBanana](https://gamebanana.com) mods database, millions of game
+mods across Doom, Half Life, GTA, Minecraft and everything else. No key.
 
 ## Tools
 
-- `search_mods` — search mods by name across all games
-- `get_mod` — description, author, game, downloads, file size, download link
-- `get_game_mods` — the latest mods for a game id
-  (find ids via `get_mod` on any of that game's mods — the mod page shows its game)
+- `search_mods`, search mods by name across all games
+- `get_mod`, description, author, game, downloads, file size, download link
+- `get_game_mods`, the latest mods for a game id
+(find ids via `get_mod` on any of that game's mods, the mod page shows its game)
 
 ## Run
 
